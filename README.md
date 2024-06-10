@@ -14,7 +14,7 @@ A Free 'Onion Routing' based secure and server-less Android based VPN app.
 **Phase 3:**
     A pure anonymous chat 
 
-**Phase 4: **
+**Phase 4:**
     Hosting a static anonymous and untraceable onion website right from your phone.
 
 **Disclaimer:**
