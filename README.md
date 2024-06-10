@@ -1,4 +1,5 @@
-![image](https://github.com/AsifKhanG/FreedomNet/assets/111562883/f4ffb657-3adc-4790-b4d3-4ec90023a20c)
+![Untitled](https://github.com/AsifKhanG/FreedomNet/assets/111562883/56499708-a7aa-4475-9eb7-3995cb86aee0)
+
 # FreedomNet
 A Free 'Onion Routing' based secure and server-less Android based VPN app.
 
