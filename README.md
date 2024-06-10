@@ -4,9 +4,9 @@ A Free 'Onion Routing' based secure and server-less Android based VPN app.
 
 **Phase 1:**
   Provide TOR based VPN connectivity service with option to connect to TOR network using 3 different methods:
-    1. Direct Connection to TOR network.
-    2. Connect via users contributed Obfs4 based Snowflack proxies
-    3. Connect using custom Obfs4 TOR bridges.
+      1. Direct Connection to TOR network.
+      2. Connect via users contributed Obfs4 based Snowflack proxies
+      3. Connect using custom Obfs4 TOR bridges.
 
 **Phase 2:** 
     Peer-2-Peer file sharing via TOR network,
